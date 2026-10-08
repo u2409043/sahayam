@@ -1,0 +1,19 @@
+{
+  "name": "sahayam-mobile",
+  "private": true,
+  "version": "2.0.0",
+  "description": "Sahayam Android app (Capacitor wrapper around ../web build output in www/).",
+  "scripts": {
+    "sync": "npx cap sync android",
+    "open": "npx cap open android",
+    "apk": "cd android && ./gradlew assembleDebug"
+  },
+  "dependencies": {
+    "@capacitor/android": "8.5.2",
+    "@capacitor/core": "8.5.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "8.5.2"
+  },
+  "engines": { "node": ">=22" }
+}

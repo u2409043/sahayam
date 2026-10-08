@@ -1,0 +1,11 @@
+{
+  "appId": "edu.rajagiri.sahayam",
+  "appName": "Sahayam",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}

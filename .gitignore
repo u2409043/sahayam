@@ -1,0 +1,12 @@
+node_modules/
+__pycache__/
+*.pyc
+backend/sahayam_v2.db
+backend/uploads/*
+!backend/uploads/.gitkeep
+mobile/android/.gradle/
+mobile/android/build/
+mobile/android/app/build/
+mobile/android/local.properties
+*.keystore
+*.jks

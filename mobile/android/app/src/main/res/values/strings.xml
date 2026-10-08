@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Sahayam</string>
+    <string name="title_activity_main">Sahayam</string>
+    <string name="package_name">edu.rajagiri.sahayam</string>
+    <string name="custom_url_scheme">edu.rajagiri.sahayam</string>
+</resources>
